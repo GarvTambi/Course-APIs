@@ -4,6 +4,8 @@
 
 ###### To design and build a scalable serverless RESTful API using AWS Lambda, Amazon DynamoDB, and AWS CDK (Cloud Development Kit) for the "Course" entity with Create and Read operations, follow these steps:
 
+### WorkFlow
+
 ##### Set up the development environment:
 
 Install Rust on your machine by following the instructions at https://www.rust-lang.org/tools/install.
